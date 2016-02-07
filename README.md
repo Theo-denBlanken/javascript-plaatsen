@@ -1,4 +1,4 @@
-#JavaScript kan op verschillende plaatsen in HTML
+#JavaScript op verschillende plaatsen in HTML
 ###Maar wel met veschilende consequenties!
 Test dit script maar uit in je browser en kijk telkens wat het gevolg is!
 
